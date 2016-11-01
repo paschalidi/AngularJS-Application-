@@ -1,4 +1,4 @@
-# Build a real-life application with AngularJS -Usin the seed for AngularJS apps link from seed: https://github.com/angular/angular-seed
+# A real-life application with AngularJS - Using the seed for AngularJS apps link from seed: https://github.com/angular/angular-seed
 
 General:
 
